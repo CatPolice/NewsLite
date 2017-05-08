@@ -1,13 +1,14 @@
 {
   "pages":[
     "pages/news/news",
+    "pages/news/detailed/newsDetail",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "奥迪资讯",
     "navigationBarTextStyle":"black"
   }
 }

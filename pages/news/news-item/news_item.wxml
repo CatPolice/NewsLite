@@ -1,0 +1,17 @@
+    <template name='news_item'>
+    
+        <view class="cell">
+            <view class="cell_head">
+                <image class="cell_head_img" src="/images/avatar/1.png"></image>
+                
+                <text class='cell_head_text'>{{date}}{{idx}}</text>
+            </view>
+        
+            <image class="cell_img" src="{{imgSrc}}">
+            </image>
+
+            <text class="cell_text">{{title}}
+            </text>
+        </view>
+
+    </template>
