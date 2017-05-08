@@ -1,0 +1,34 @@
+<view>
+    <swiper class="news_swiper" indicator-dots="YES" autoplay="YES" interval="2000">
+        <swiper-item>
+            <image src="/images/news/banner1.jpg"></image>
+        </swiper-item>
+
+        <swiper-item>
+            <image src="/images/news/banner2.jpg"></image>
+        </swiper-item>
+
+        <swiper-item>
+            <image src="/images/news/banner3.jpg"></image>
+        </swiper-item>
+    </swiper>
+
+
+
+    <view class="cell">
+        <view class="cell_head">
+            <image class="cell_head_img" src="/images/avatar/1.png"></image>
+            <text class="cell_head_text">2017-05-08</text>
+        </view>
+        
+        <image class="cell_img" src="/images/news/banner2.jpg">
+        </image>
+
+        <text class="cell_text">0000000000000000000000000000000000000000000000000000000000000000000000000
+        </text>
+
+
+    </view>
+
+
+</view>
